@@ -43,8 +43,8 @@ The model runs on Google Colab using a **T4 GPU**, extracts and embeds thousands
 ---
 
 ## 🧑‍💻 Team Members
-- **Team Name:** Bro Code  
-- **Members:** [Add your team members’ names here]  
+- **Team Name:** BroCode  
+- **Members:** Dev Mulchandani, Pratham Gala and Deep Dhaduk  
 - **Professor:** Dr. Chandrasekar Vuppalapati  
 - **Course:** CMPE 256 – Recommender Systems (Fall 2025)
 
